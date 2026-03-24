@@ -1,0 +1,19 @@
+{
+  "perplexidade_base": 37.01442770889812,
+  "perplexidade_finetuned": 12.705537515331988,
+  "melhoria_percentual": 65.67409439568983,
+  "exemplos_respostas": [
+    {
+      "pergunta": "What are the common symptoms of diabetes?",
+      "resposta_finetuned": "Common symptoms and clinical features in people with chronic diseases include a high prevalence, low incidence rate (0.5%), an underlying mechanism(s), frequent complications including cirrhosis or obesity-related liver disease; poor blood glucose control status by fasting plasma insulin levels lower than normal during pregnancy but not at rest periods after delivery when there is no metabolic syndrome associated to hypoglycaemia that may contribute precipitouslyTo discuss these findings we performed quantitative polymerase chain reaction analysis on patients' data from December 2002 through January 2005 using two consecutive swabs collected between October 2004 for pancreatic adenoma/nonsmall cell lung cancer diagnosis among 531 individuals diagnosed as having either type 2 diabetic mellitus (>75 mg daily) who were referred immediately prior surgery"
+    },
+    {
+      "pergunta": "How is hypertension diagnosed?",
+      "resposta_finetuned": "This study demonstrates that high blood pressure (BP) and peripheral vascular disease are not associated with BP, even though they may contribute to the development of coronary artery calcifications. In addition these studies indicate a link between elevated serum triglycerides in hypertensive subjects who undergo surgery for heart failure or other cardiovascular risk factors.'substitution=0x00200000300;i2>baseline': ['A prospective cohort design was used where patients underwent endoscopy at 3 consecutive locations on weekends during 2005-2009 [mean age = 35 years] after angina pectoris punctuatorum Surgery without prior angioplasty (<30 min). Seral cholesterol levels were measured using standardized multivariate Cox proportional hazards model comparing LDL/HDL"
+    },
+    {
+      "pergunta": "What treatment options exist for pneumonia?",
+      "resposta_finetuned": "Prolonged exposure to anaerobic respiration is associated with a reduced risk of developing acute bronchitis and the development in patients exposed on ventilatory steroids. We evaluated two different approaches that may be useful as adjuncts or replacement therapy when pneumococcal infections are present, both at low concentrations (low). This study was designed primarily because chronic lung infection might cause respiratory distress syndrome but also has potential consequences including morbidity/malignancy rates; increased susceptibility among susceptible subjects who have been infected by airborne pathogens while undergoing routine physical examination without prior knowledge about their possible pathogenesis); elevated survival rate after airway inflammation reduction surgery such procedures require medical attention during initial follow-up evaluation which could delay subsequent diagnosis if necessary before antibiotic use should become"
+    }
+  ]
+}

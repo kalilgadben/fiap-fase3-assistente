@@ -1,0 +1,180 @@
+2026-03-24 14:28:37 | INFO | CONSULTA #1
+2026-03-24 14:28:37 | INFO |   Pergunta: pacientes
+2026-03-24 14:28:37 | INFO |   Resposta: ia
+
+📋 Fontes utilizadas:
+  • Modelo fine-tuned (PubMedQA)
+
+⚠️  AVISO: Esta é uma sugestão baseada em dados e protocolos internos. NÃO substitui a avaliação e decisão do médico responsável. Toda condut...
+2026-03-24 14:28:37 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)']
+2026-03-24 14:28:37 | INFO |   Status: APROVADA
+2026-03-24 14:29:01 | INFO | CONSULTA #2
+2026-03-24 14:29:01 | INFO |   Pergunta: qpacientes
+2026-03-24 14:29:01 | INFO |   Resposta: nenco
+
+📋 Fontes utilizadas:
+  • Modelo fine-tuned (PubMedQA)
+
+⚠️  AVISO: Esta é uma sugestão baseada em dados e protocolos internos. NÃO substitui a avaliação e decisão do médico responsável. Toda con...
+2026-03-24 14:29:01 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)']
+2026-03-24 14:29:01 | INFO |   Status: APROVADA
+2026-03-24 14:34:06 | INFO | CONSULTA #1
+2026-03-24 14:34:06 | INFO |   Pergunta: quais exames estão pendentes?
+2026-03-24 14:34:06 | INFO |   Paciente ID: 3
+2026-03-24 14:34:06 | INFO |   Resposta: quem, 2010; n 2006 and 2009 respectively are now available for the treatment of cancer in patients with metastatic melanoma from 2003 to 2008 using conventional chemotherapy techniques including laser...
+2026-03-24 14:34:06 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 14:34:06 | INFO |   Status: APROVADA
+2026-03-24 14:35:18 | INFO | CONSULTA #2
+2026-03-24 14:35:18 | INFO |   Pergunta: quais exames estão pendentes
+2026-03-24 14:35:18 | INFO |   Paciente ID: 1
+2026-03-24 14:35:18 | INFO |   Resposta: Quâcio
+
+📋 Fontes utilizadas:
+  • Modelo fine-tuned (PubMedQA)
+  • Banco de dados do hospital
+
+⚠️  AVISO: Esta é uma sugestão baseada em dados e protocolos internos. NÃO substitui a avaliação e decisão...
+2026-03-24 14:35:18 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 14:35:18 | INFO |   Status: APROVADA
+2026-03-24 14:37:05 | INFO | CONSULTA #3
+2026-03-24 14:37:05 | INFO |   Pergunta: ele está tomando alguma medicação?
+2026-03-24 14:37:05 | INFO |   Paciente ID: 1
+2026-03-24 14:37:05 | INFO |   Resposta: en especial
+
+📋 Fontes utilizadas:
+  • Modelo fine-tuned (PubMedQA)
+  • Banco de dados do hospital
+
+⚠️  AVISO: Esta é uma sugestão baseada em dados e protocolos internos. NÃO substitui a avaliação e de...
+2026-03-24 14:37:05 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 14:37:05 | INFO |   Status: APROVADA
+2026-03-24 14:37:51 | INFO | CONSULTA #4
+2026-03-24 14:37:51 | INFO |   Pergunta: possui alguma alergia?
+2026-03-24 14:37:51 | INFO |   Paciente ID: 9
+2026-03-24 14:37:51 | INFO |   Resposta: Algaligenial adenomas in situ are not only common but also rare and difficult to diagnose under the prevailing medical knowledge regarding them as well according with available data on these tumors or...
+2026-03-24 14:37:51 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 14:37:51 | INFO |   Status: APROVADA
+2026-03-24 14:48:01 | INFO | CONSULTA #5
+2026-03-24 14:48:01 | INFO |   Pergunta: possui alguma alergia?
+2026-03-24 14:48:01 | INFO |   Paciente ID: 9
+2026-03-24 14:48:01 | INFO |   Resposta: Assessability of the assessment for clinical outcomes and quality assurance in patients with a history or suspected acute myocardial infarction--the latter is essential to ensure that there are no unn...
+2026-03-24 14:48:01 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 14:48:01 | INFO |   Status: APROVADA
+2026-03-24 14:52:42 | INFO | CONSULTA #6
+2026-03-24 14:52:42 | INFO |   Pergunta: possui alguma alergia?
+2026-03-24 14:52:42 | INFO |   Paciente ID: 9
+2026-03-24 14:52:42 | INFO |   Resposta: o 30 min post mortem et ceterioire medica una cadavera d'intervention à cadavers dans la retrouviere des compagn
+
+📋 Fontes utilizadas:
+  • Modelo fine-tuned (PubMedQA)
+  • Banco de dados do hospital
+
+...
+2026-03-24 14:52:42 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 14:52:42 | INFO |   Status: APROVADA
+2026-03-24 15:00:06 | INFO | CONSULTA #7
+2026-03-24 15:00:06 | INFO |   Pergunta: possui alguma alergia?
+2026-03-24 15:00:06 | INFO |   Paciente ID: 9
+2026-03-24 15:00:06 | INFO |   Resposta: An increase in the number of patients with acute appendectomy is likely to be associated as it increases quality control and reduces complications from surgery if a single dose or two are administered...
+2026-03-24 15:00:06 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 15:00:06 | INFO |   Status: APROVADA
+2026-03-24 15:04:06 | INFO | CONSULTA #8
+2026-03-24 15:04:06 | INFO |   Pergunta: possui alguma alergia?
+2026-03-24 15:04:06 | INFO |   Paciente ID: 9
+2026-03-24 15:04:06 | INFO |   Resposta: 1 in a single dose of vitamin E supplement is not feasible; therefore the solution may be to use topical or oral administration agents such as amoxicillin for this purpose and increase their dosage ac...
+2026-03-24 15:04:06 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 15:04:06 | INFO |   Status: APROVADA
+2026-03-24 16:11:07 | INFO | CONSULTA #9
+2026-03-24 16:11:07 | INFO |   Pergunta: possui alguma alergia?
+2026-03-24 16:11:07 | INFO |   Paciente ID: 9
+2026-03-24 16:11:07 | INFO |   Resposta: Penda esta c 30 min after the treatment of abdominal pain in patients with acute pelvic discomfort or chronic pelvic trauma without prior surgical intervention and no further investigation by a radiol...
+2026-03-24 16:11:07 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 16:11:07 | INFO |   Status: APROVADA
+2026-03-24 18:02:13 | INFO | CONSULTA #1
+2026-03-24 18:02:13 | INFO |   Pergunta: Quais exames estão pendentes para este paciente?
+2026-03-24 18:02:13 | INFO |   Paciente ID: 9
+2026-03-24 18:02:13 | INFO |   Resposta: 
+Exames concluídos:
+  - Creatinina: 4.2 mg/dL (2024-02-13)
+
+Exames pendentes:
+  - Ureia (solicitado em 2024-03-20)
+
+Sugestão: acompanhar a liberação dos exames pendentes antes de ajustar a conduta.
+
+📋...
+2026-03-24 18:02:13 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 18:02:13 | INFO |   Status: APROVADA
+2026-03-24 18:03:08 | INFO | CONSULTA #2
+2026-03-24 18:03:08 | INFO |   Pergunta: Qual o tratamento atual do paciente?
+2026-03-24 18:03:08 | INFO |   Paciente ID: 1
+2026-03-24 18:03:08 | INFO |   Resposta: 
+Tratamentos em andamento:
+  - Metformina 850mg, 2x ao dia - Obs: Tomar após refeições
+  - Insulina NPH 20UI, 1x ao dia (noite) - Obs: Aplicar no abdômen
+
+Análise complementar do modelo:
+Espanol se a ...
+2026-03-24 18:03:08 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 18:03:08 | INFO |   Status: APROVADA
+2026-03-24 18:03:48 | INFO | CONSULTA #3
+2026-03-24 18:03:48 | INFO |   Pergunta: Prescrevo Amoxicilina 500mg para este paciente
+2026-03-24 18:03:48 | INFO |   Paciente ID: 1
+2026-03-24 18:03:48 | INFO |   Resposta: O paciente Paciente A tem 45 anos, sexo M, com condição principal: Diabetes Tipo 2.
+Possui alergia registrada a: Penicilina.
+Data de admissão: 2024-01-15.
+
+Exames concluídos:
+  - Hemoglobina Glicada: ...
+2026-03-24 18:03:48 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 18:03:48 | INFO |   Status: APROVADA
+2026-03-24 18:06:31 | INFO | CONSULTA #1
+2026-03-24 18:06:31 | INFO |   Pergunta: Prescrevo Amoxicilina 500mg para este paciente
+2026-03-24 18:06:31 | INFO |   Paciente ID: 1
+2026-03-24 18:06:31 | INFO |   Resposta: O paciente Paciente A tem 45 anos, sexo M, com condição principal: Diabetes Tipo 2.
+Possui alergia registrada a: Penicilina.
+Data de admissão: 2024-01-15.
+
+Exames concluídos:
+  - Hemoglobina Glicada: ...
+2026-03-24 18:06:31 | INFO |   Fontes: ['Banco de dados do hospital', 'Modelo fine-tuned (PubMedQA)']
+2026-03-24 18:06:31 | INFO |   Status: APROVADA
+2026-03-24 18:47:05 | INFO | CONSULTA #1
+2026-03-24 18:47:05 | INFO |   Pergunta: Quais exames estão pendentes para este paciente?
+2026-03-24 18:47:05 | INFO |   Paciente ID: 9
+2026-03-24 18:47:05 | INFO |   Resposta: 
+Exames concluídos:
+  - Creatinina: 4.2 mg/dL (2024-02-13)
+
+Exames pendentes:
+  - Ureia (solicitado em 2024-03-20)
+
+Sugestão: acompanhar a liberação dos exames pendentes antes de ajustar a conduta.
+
+📋...
+2026-03-24 18:47:05 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 18:47:05 | INFO |   Status: APROVADA
+2026-03-24 18:47:45 | INFO | CONSULTA #2
+2026-03-24 18:47:45 | INFO |   Pergunta: Qual o tratamento atual do paciente?
+2026-03-24 18:47:45 | INFO |   Paciente ID: 9
+2026-03-24 18:47:45 | INFO |   Resposta: Não há tratamentos registrados para este paciente.
+
+📋 Fontes utilizadas:
+  • Modelo fine-tuned (PubMedQA)
+  • Banco de dados do hospital
+
+⚠️  AVISO: Esta é uma sugestão baseada em dados e protocolos i...
+2026-03-24 18:47:45 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 18:47:45 | INFO |   Status: APROVADA
+2026-03-24 18:48:14 | INFO | CONSULTA #3
+2026-03-24 18:48:14 | INFO |   Pergunta: Qual o tratamento atual do paciente?
+2026-03-24 18:48:14 | INFO |   Paciente ID: 1
+2026-03-24 18:48:14 | INFO |   Resposta: 
+Tratamentos em andamento:
+  - Metformina 850mg, 2x ao dia - Obs: Tomar após refeições
+  - Insulina NPH 20UI, 1x ao dia (noite) - Obs: Aplicar no abdômen
+
+📋 Fontes utilizadas:
+  • Modelo fine-tuned (P...
+2026-03-24 18:48:14 | INFO |   Fontes: ['Modelo fine-tuned (PubMedQA)', 'Banco de dados do hospital']
+2026-03-24 18:48:14 | INFO |   Status: APROVADA
