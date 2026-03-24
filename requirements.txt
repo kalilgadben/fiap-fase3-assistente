@@ -1,0 +1,21 @@
+# Dependências do projeto - Tech Challenge Fase 3
+# Assistente Médico com Fine-Tuning e LangChain
+
+# LLM e Fine-tuning
+transformers==4.40.0
+datasets==2.16.0
+torch==2.1.0
+accelerate==0.28.0
+
+# LangChain e LangGraph
+langchain==0.1.20
+langchain-community==0.0.38
+langgraph==0.0.38
+langchain-huggingface==0.0.1
+
+# Banco de dados
+# sqlite3 já vem com Python
+
+# Utilidades
+pandas==2.1.4
+numpy==1.26.2
